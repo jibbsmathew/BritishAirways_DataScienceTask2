@@ -1,8 +1,6 @@
 # BritishAirways_DataScienceTask2
 
 
-# British Airways Data Science Task
-
 ## Task Description
 
 Welcome to the British Airways Data Science Task! In this task, you will explore and prepare a dataset to predict whether a customer will make a booking. The goal is to train a machine learning model and evaluate its performance, providing insights into the variables contributing to the model's predictive power.
