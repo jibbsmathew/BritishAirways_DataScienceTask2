@@ -1,4 +1,4 @@
-# BritishAirways_DataScienceTask2
+# British Airways Data Science
 
 
 ## Task Description
