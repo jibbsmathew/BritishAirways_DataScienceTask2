@@ -4,7 +4,7 @@ This project involved developing a machine learning model to predict whether a c
 
 ## Data
 
-The data used consists of 50,000 customer flight booking records with the following attributes:
+The data derived from British Airlines used consists of 50,000 customer flight booking records with the following attributes:
 
 - Booking details: number of passengers, sales channel, trip type, days between booking and travel
 - Flight details: length of stay, departure time, day of week, route, flight duration 
